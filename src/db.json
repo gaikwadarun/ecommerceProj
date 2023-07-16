@@ -1,0 +1,58 @@
+{
+  "seller": [
+    {
+      "name": "sda",
+      "password": "asddsad",
+      "email": "asds",
+      "id": 1
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "id": 2
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "id": 3
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "id": 4
+    },
+    {
+      "name": "Arun Gaikwad",
+      "password": "fsdfsd",
+      "email": "sdfsdfsdfdf",
+      "id": 5
+    },
+    {
+      "name": "Arun Gaikwad",
+      "password": "fsdfsd",
+      "email": "sdfsdfsdfdf",
+      "id": 6
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "id": 7
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "id": 8
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "id": 9
+    }
+  ]
+}
